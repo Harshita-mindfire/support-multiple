@@ -2,12 +2,13 @@
 id: DO_RXSlAbwNwbz-ILKoQa
 title: Taking Notes
 desc: ""
-updated: 1624934082241
+updated: 1646324758892
 created: 1624333266168
+owner: joshi
+airtableId: "recz3Mm8X0WlAF4Pi"
 ---
 
 ### Create a Note
-
 To create a note, use `Ctrl+L` to bring up Dendron's lookup. This is a shortcut for the `Dendron: Lookup Note` command.
 
 > 💡 The lookup command is the main way to interact with Dendron. It is used for both looking up your notes and creating new notes. When you do a lookup on a note that hasn't been created, Dendron will create it for you. Remember the `Ctrl+L` shortcut.

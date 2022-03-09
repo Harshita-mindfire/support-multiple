@@ -2,8 +2,12 @@
 id: hAB2tQHsi0CGuhxz5HkTI
 title: Linking Your Notes
 desc: Note Linking and your Knowledge Graph
-updated: 1624934268124
+updated: 1646303771759
 created: 1624333278136
+owner: joshi
+documentId: 12itGWhj6taNJmukojygqHK7wqY9dNMz2GrSRC5gQJbk
+revisionId: >-
+  ALm37BUqTVG6s8zYlYVxwkZvN31sEtbNhayJfqyVMa3JuSanpflozkYmTxKx_ex-IpAXrSSwlQF3K1sYfHd0EUs
 ---
 
 ### Links

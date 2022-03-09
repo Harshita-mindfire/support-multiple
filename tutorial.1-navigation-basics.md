@@ -2,8 +2,9 @@
 id: vXh-HmSTsmgGA9j9IzcZh
 title: 1 Navigation Basics
 desc: ''
-updated: 1624934444826
+updated: 1646323223191
 created: 1624332288808
+owner: joshi
 ---
 
 Let's do a brief overview on how to navigate the Dendron UI.
