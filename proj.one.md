@@ -7,5 +7,5 @@ created: 1646316392707
 startDate: '2022-02-21'
 ---
 
-[[1 Naion Basics|tutorial.1-navigation-basics]]
+[[1 Basics|tutorial.1-navigation-basics]]
 [[Taking Notes|tutorial.2-taking-notes]]
